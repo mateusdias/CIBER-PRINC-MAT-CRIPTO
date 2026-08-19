@@ -1,74 +1,74 @@
-# Principios Matematicos de Criptografia
+# Princípios Matemáticos de Criptografia
 
-Repositorio oficial da disciplina **15673 - Principios Matematicos de Criptografia**, ministrada no curso de **Ciberseguranca** da **Pontificia Universidade Catolica de Campinas (PUC-Campinas)**.
+Repositório oficial da disciplina **15673 - Princípios Matemáticos de Criptografia**, ministrada no curso de **Cibersegurança** da **Pontifícia Universidade Católica de Campinas (PUC-Campinas)**.
 
-Este repositorio tem como objetivo centralizar materiais didaticos, conteudos teoricos, atividades praticas, experimentos e documentos de referencia relacionados ao estudo dos **fundamentos matematicos aplicados a criptografia**, com foco em conceitos essenciais para a area de seguranca da informacao.
+Este repositório tem como objetivo centralizar materiais didáticos, conteúdos teóricos, atividades práticas, experimentos e documentos de referência relacionados ao estudo dos **fundamentos matemáticos aplicados à criptografia**, com foco em conceitos essenciais para a área de segurança da informação.
 
 
-## Informacoes Gerais
+## Informações Gerais
 
-- **Curso:** Ciberseguranca  
-- **Disciplina:** 15673 - Principios Matematicos de Criptografia  
+- **Curso:** Cibersegurança  
+- **Disciplina:** 15673 - Princípios Matemáticos de Criptografia  
 - **Professor:** Prof. Me. Mateus Dias  
 - **Ano:** 2026  
 
 ## Objetivos da Disciplina
 
-Ao longo da disciplina, o estudante sera capaz de:
+Ao longo da disciplina, o estudante será capaz de:
 
-- Compreender os fundamentos matematicos utilizados em sistemas criptograficos  
-- Aplicar conceitos de aritmetica modular em problemas de criptografia  
-- Analisar propriedades de numeros primos, congruencias e inversos modulares  
-- Compreender a base matematica de algoritmos criptograficos simetricos e assimetricos  
-- Relacionar conceitos matematicos com mecanismos de confidencialidade, integridade e autenticacao  
-- Avaliar, em nivel conceitual, a seguranca de metodos criptograficos a partir de seus fundamentos matematicos  
+- Compreender os fundamentos matemáticos utilizados em sistemas criptográficos  
+- Aplicar conceitos de aritmética modular em problemas de criptografia  
+- Analisar propriedades de números primos, congruências e inversos modulares  
+- Compreender a base matemática de algoritmos criptográficos simétricos e assimétricos  
+- Relacionar conceitos matemáticos com mecanismos de confidencialidade, integridade e autenticação  
+- Avaliar, em nível conceitual, a segurança de métodos criptográficos a partir de seus fundamentos matemáticos  
 
-## Conteudos Abordados
+## Conteúdos Abordados
 
 Entre os principais temas trabalhados na disciplina, destacam-se:
 
-- Fundamentos de teoria dos numeros  
-- Divisibilidade, maximo divisor comum e algoritmo de Euclides  
-- Congruencias e aritmetica modular  
-- Inversos modulares e equacoes congruenciais  
-- Numeros primos e fatoracao  
-- Teorema de Euler, pequeno teorema de Fermat e funcao totiente  
-- Criptografia classica e cifras historicas  
-- Fundamentos matematicos de criptografia simetrica  
-- Fundamentos matematicos de criptografia assimetrica  
-- RSA, troca de chaves e aplicacoes criptograficas  
-- Funcoes hash, assinaturas digitais e certificados digitais em nivel conceitual  
+- Fundamentos de teoria dos números  
+- Divisibilidade, máximo divisor comum e algoritmo de Euclides  
+- Congruências e aritmética modular  
+- Inversos modulares e equações congruenciais  
+- Números primos e fatoração  
+- Teorema de Euler, pequeno teorema de Fermat e função totiente  
+- Criptografia clássica e cifras históricas  
+- Fundamentos matemáticos de criptografia simétrica  
+- Fundamentos matemáticos de criptografia assimétrica  
+- RSA, troca de chaves e aplicações criptográficas  
+- Funções hash, assinaturas digitais e certificados digitais em nível conceitual  
 
 ## Tecnologias Utilizadas
 
-Durante o semestre, serao exploradas, de forma pratica ou conceitual, as seguintes tecnologias e recursos:
+Durante o semestre, serão exploradas, de forma prática ou conceitual, as seguintes tecnologias e recursos:
 
 - Python  
-- Bibliotecas matematicas e criptograficas  
-- Ferramentas de apoio para calculos modulares  
-- Ambientes de experimentacao computacional  
-- Recursos de linha de comando para analise e demonstracao de algoritmos  
+- Bibliotecas matemáticas e criptográficas  
+- Ferramentas de apoio para cálculos modulares  
+- Ambientes de experimentação computacional  
+- Recursos de linha de comando para análise e demonstração de algoritmos  
 
-## Estrutura do Repositorio
+## Estrutura do Repositório
 
 ```text
 CIBER-PRINC-MAT-CRIPTO/
-├── res/               # Recursos, imagens, diagramas e demais artefatos utilizados no repositorio
-├── temas/             # Fechamentos teoricos organizados por tema
-├── exemplos/          # Exemplos de codigo ou materiais dados em aula
-├── experimentos/      # Experimentos praticos e demonstracoes
-├── exercicios/        # Exercícios, listas que o aluno deve praticar
-├── labs/              # Atividades de laboratorio
+├── res/               # Recursos, imagens, diagramas e demais artefatos utilizados no repositório
+├── temas/             # Fechamentos teóricos organizados por tema
+├── exemplos/          # Exemplos de código ou materiais dados em aula
+├── experimentos/      # Experimentos práticos e demonstrações
+├── exercicios/        # Exercícios e listas que o aluno deve praticar
+├── labs/              # Atividades de laboratório
 ├── referencias/       # Materiais de apoio e leituras complementares
 ├── cronograma.md      # Cronograma da disciplina
 ├── plano-de-ensino.md # Plano de ensino oficial
-└── README.md          # Documentacao geral do repositorio
+└── README.md          # Documentação geral do repositório
 ```
 
-A estrutura acima indica como os materiais da disciplina serao organizados. As pastas serao preenchidas ao longo do semestre, conforme o andamento das aulas e a disponibilizacao dos materiais.
+A estrutura acima indica como os materiais da disciplina serão organizados. As pastas serão preenchidas ao longo do semestre, conforme o andamento das aulas e a disponibilização dos materiais.
 
-## Observacoes
+## Observações
 
-Este repositorio e de uso academico e podera ser atualizado ao longo do semestre conforme a dinamica da disciplina e o andamento das aulas.
+Este repositório é de uso acadêmico e poderá ser atualizado ao longo do semestre conforme a dinâmica da disciplina e o andamento das aulas.
 
-O conteudo aqui disponibilizado destina-se exclusivamente aos estudantes regularmente matriculados na disciplina.
+O conteúdo aqui disponibilizado destina-se exclusivamente aos estudantes regularmente matriculados na disciplina.
