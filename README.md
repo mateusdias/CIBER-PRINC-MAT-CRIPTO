@@ -58,7 +58,6 @@ CIBER-PRINC-MAT-CRIPTO/
 ├── exemplos/          # Exemplos de código ou materiais dados em aula
 ├── experimentos/      # Experimentos práticos e demonstrações
 ├── exercicios/        # Exercícios e listas que o aluno deve praticar
-├── labs/              # Atividades de laboratório
 ├── referencias/       # Materiais de apoio e leituras complementares
 ├── cronograma.md      # Cronograma da disciplina
 ├── plano-de-ensino.md # Plano de ensino oficial
