@@ -1,4 +1,4 @@
-# Tema 2 — Lista 1: Matrizes
+# Tema 2 — Lista de Primeiros Passos com Matrizes
 
 ## Identificação
 
@@ -7,7 +7,7 @@
 **Componente curricular:** Princípios Matemáticos de Criptografia  
 **Semestre:** 2º semestre de 2026  
 
-## Lista 1
+## Lista de Primeiros Passos com Matrizes
 
 ## 1. Construção de matrizes
 
@@ -292,7 +292,3 @@ AD = [ 12   11    2 ]
      [ -2    1    0 ]
      [ -4  -15   -2 ]
 ```
-
-## Observação sobre o gabarito
-
-A transcrição do arquivo `.docx` foi convertida para Markdown a partir do conteúdo interno do documento. Algumas expressões matemáticas do arquivo original foram armazenadas em formato de equação do Word e exigiram reconstituição textual para ficarem legíveis em Markdown.

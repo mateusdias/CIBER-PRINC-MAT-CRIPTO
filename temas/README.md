@@ -10,7 +10,7 @@
 
 1. [Apoio ao estudo: Programa Quantum](02-01-apoio-quantum.md)
 2. [Aula de matrizes](02-02-aula-matrizes.md)
-3. [Lista 1: matrizes](02-03-lista-1-matrizes.md)
+3. [Lista de Primeiros Passos com Matrizes](02-03-lista-1-matrizes.md)
 
 ## Observação
 
