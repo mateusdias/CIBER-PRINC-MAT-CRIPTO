@@ -2,29 +2,49 @@
     "version": "2.0.0",
     "tasks": [
         {
+            "label": "C: preparar pasta build",
+            "type": "shell",
+            "command": "mkdir",
+            "args": [
+                "-p",
+                "${workspaceFolder}/build"
+            ],
+            "problemMatcher": []
+        },
+        {
             "label": "C: compilar arquivo atual",
             "type": "shell",
             "command": "gcc",
             "args": [
+                "-std=c11",
                 "-Wall",
                 "-Wextra",
+                "-pedantic",
                 "-g",
                 "${file}",
                 "-o",
-                "${fileDirname}/${fileBasenameNoExtension}"
+                "${workspaceFolder}/build/${fileBasenameNoExtension}"
             ],
+            "dependsOn": "C: preparar pasta build",
+            "dependsOrder": "sequence",
             "group": {
                 "kind": "build",
                 "isDefault": true
             },
             "problemMatcher": [
                 "$gcc"
-            ]
+            ],
+            "linux": {
+                "command": "gcc"
+            },
+            "osx": {
+                "command": "clang"
+            }
         },
         {
             "label": "C: compilar e rodar arquivo atual",
             "type": "shell",
-            "command": "${fileDirname}/${fileBasenameNoExtension}",
+            "command": "${workspaceFolder}/build/${fileBasenameNoExtension}",
             "dependsOn": "C: compilar arquivo atual",
             "dependsOrder": "sequence",
             "group": "test",
