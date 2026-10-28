@@ -21,10 +21,22 @@
 ### Tema 4 — Cifras clássicas modulares
 
 1. [Visão geral do tema](4-cifras-classicas-modulares/README.md)
+2. [Cifra de César](4-cifras-classicas-modulares/04-01-cifra-de-cesar.md)
+3. [Deslocamento modular e decifragem](4-cifras-classicas-modulares/04-02-deslocamento-modular.md)
+4. [Quebra por força bruta](4-cifras-classicas-modulares/04-03-quebra-por-forca-bruta.md)
+5. [Cifra afim](4-cifras-classicas-modulares/04-04-cifra-afim.md)
+6. [Condição de reversibilidade](4-cifras-classicas-modulares/04-05-condicao-de-reversibilidade.md)
+7. [Inverso modular aplicado à decifragem](4-cifras-classicas-modulares/04-06-inverso-modular-na-decifragem.md)
 
 ### Tema 5 — Matrizes modulares e Cifra de Hill
 
 1. [Visão geral do tema](5-matrizes-modulares-cifra-hill/README.md)
+2. [Mensagens em blocos numéricos](5-matrizes-modulares-cifra-hill/05-01-mensagens-em-blocos.md)
+3. [Multiplicação de matriz por vetor módulo 26](5-matrizes-modulares-cifra-hill/05-02-matriz-vetor-modulo-26.md)
+4. [Cifra de Hill com matriz 2 x 2](5-matrizes-modulares-cifra-hill/05-03-cifra-de-hill-2x2.md)
+5. [Determinante de matriz 2 x 2](5-matrizes-modulares-cifra-hill/05-04-determinante-2x2.md)
+6. [Invertibilidade módulo 26](5-matrizes-modulares-cifra-hill/05-05-invertibilidade-modulo-26.md)
+7. [Decifragem com matriz inversa modular](5-matrizes-modulares-cifra-hill/05-06-decifragem-com-matriz-inversa.md)
 
 ## Observação
 
