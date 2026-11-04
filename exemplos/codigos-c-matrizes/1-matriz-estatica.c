@@ -9,7 +9,7 @@
  * Na pratica, o C guarda essa tabela usando dois indices:
  * um indice para indicar a linha e outro indice para indicar a coluna.
  *
- * A declaracao int matriz[2][2] cria uma matriz com:
+ * A declaracao int matriz[2][2] m2x2 cria uma matriz com:
  * - 2 linhas
  * - 2 colunas
  * - valores do tipo inteiro
@@ -36,10 +36,7 @@
 int main(void) {
     // Cria uma matriz estatica de inteiros com 2 linhas e 2 colunas.
     int matriz[2][2] = {
-        // Define os valores da primeira linha da matriz.
         {1, 2},
-
-        // Define os valores da segunda linha da matriz.
         {3, 4}
     };
 
